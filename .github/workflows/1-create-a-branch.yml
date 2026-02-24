@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - "my-first-branch"
+      - "copilot/create-new-project"
 
 permissions:
   contents: read
