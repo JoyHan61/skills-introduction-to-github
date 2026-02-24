@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - "my-first-branch"
+      - "copilot/create-new-project"
     paths:
       - "PROFILE.md"
 
